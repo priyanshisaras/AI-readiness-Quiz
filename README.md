@@ -3,7 +3,7 @@
 ## Getting Started
 Follow these steps to run the project locally:
 
-### Start the backend server: 
+### 1. Start the backend server: 
 ```bash
 cd backend
 node index.js
